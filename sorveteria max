@@ -1,17 +1,14 @@
-<h1> <title> {color:blue;text-align:center;} size= 'num.6' SORVETERIA MAX
-<li><a href="index.html">Temos  todo tipos de gelados T</a></li>
-          <li><a href="about.html">localisado no centro de uniao</a></li>
-         <li><a href="inscricao.html">toda semana tem promoçao para as crianças</a></li
-        <li><a href="tutoria.html">e promosao para todos do final de semana </a></li>
-      </ul>
-   </nav>
-   
-   li><a href="index.html">Nosso grupo</a></li>
-         <li><a href="about.html">aberto de segunda  a sabado </a></li>
-         <li><a href="inscricao.html">na compra de 3 sorvetes  leva uma coca de 600mn de brinde</a></li
-          <li><a href="tutoria.html">se vc sempre comprar sorvete vc leva promoçao
+<!doctype html>
 
+<h1> <title> {color:bnlue;text-align:cemtral;} size='num.6'sorveteria max.
 
+{color:red;text-aling:center;}temos todo tipo de gelados
 
+<body <p> localizado no centro de uniao
 
-
+{color:black;text-aling:center;}toda semana tem promoçao para as crianças</a></li>
+  
+ <li><a href="index.html">e promoçao para todos no final de semana </a></li>
+          <li><a href="about.html">aberto de segunda a sabado</a></li>
+          <li><a href="inscricao.html">e na compra de tres sorvetes ganha de brinde ums coca de 600ml</a></li>
+          
