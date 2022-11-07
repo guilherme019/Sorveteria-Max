@@ -1,8 +1,8 @@
-<h1> <title> {color:bnlue;text-align:cemtral;} size='num.6'sorveteria max.
-{color:red;text-aling:center;}temos todo tipo de gelados
-<body <p> localizado no centro de uniao
-{color:black;text-aling:center;}toda semana tem promoçao para as crianças</a></li>
- <li><a href="index.html">e promoçao para todos no final de semana </a></li>
-          <li><a href="about.html">aberto de segunda a sabado</a></li>
-          <li><a href="inscricao.html">e na compra de tres sorvetes ganha de brinde ums coca de 600ml</a></li>
-          
+
+          <li><a href="index.html"> temos todo tipo de gelados</a></li>
+          <li><a href="about.html">localizado no centro de uniao</a></li>
+          <li><a href="inscricao.html">toda semana tem promoçao para as crianças</a></li>
+          <li>promoçao para todos no final de semana</li>
+          <li><a href="tutoria.html">e comprando 3 sorvete voce ganha um refrigerante de 600lt</a></li>
+        </ul>
+    </nav>
